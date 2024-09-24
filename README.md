@@ -1,5 +1,5 @@
-# hello-world
-# This repository is about me (Gunnar) and my goals for learning to write code.
+# README.md
+This repository is about me (Gunnar) and my goals for learning to write code.
 
 I'm a PhD student working in Jerry Wang's lab in the Department of Biochemistry and Molecular Genetics at UAB. So far, I've completed work on an interesting type IV pilin protein made by the extremophlic archaea Sulfolobales islandicus that can assemble into two different types of filaments called pili. My current work is focusing on bacterial flagella and cytochrome nanowires. 
 
